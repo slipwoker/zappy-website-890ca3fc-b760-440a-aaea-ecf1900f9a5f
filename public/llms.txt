@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ללולילנד - חברת השכרת מתנפחים מובילה בישראל! אטרקציות מוסמכות ובטוחות לימי הולדת ואירועים. שירות אישי והפקה מושלמת שתהפוך כל חגיגה להרפתקה בלתי נשכחת.
+
+### בטיחות ואישורים
+https://example.com/safety
+בטיחות מעל הכל! כל המתנפחים והאטרקציות שלנו עוברים בדיקות קפדניות ומוסמכים לפי תקני הבטיחות הגבוהים ביותר. גלו איך אנחנו שומרים על הילדים שלכם בכל רגע.
+
+### אודות
+https://example.com/about
+מכירים את ללולילנד? אנחנו החברה המובילה להשכרת מתנפחים ואטרקציות בישראל, עם מחויבות לשירות אישי ויצירת חוויות שמחה בלתי נשכחות. הכירו את הצוות והערכים שלנו.
+
+### צור קשר
+https://example.com/contact
+מתכננים יום הולדת או אירוע בקרוב? צרו קשר עם ללולילנד עוד היום! נשמח לייעץ, לתכנן ולהפוך את החגיגה שלכם לחוויה צבעונית ומלאת שמחה. השכרת מתנפחים ואטרקציות בקליק.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ללולילנד
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ללולילנד
+
+### Category
+https://example.com/category/:slug
+מוצרים - ללולילנד
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
