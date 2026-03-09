@@ -1,6 +1,4 @@
-# ללולילנד — Generative Engine Optimization Map
-
-> Lululiland is Israel's leading inflatable and attraction rental company for events, transforming every occasion into a colorful and unforgettable adventure. The brand emphasizes personal service, certified and safe equipment, and creating joyful experiences filled with smiles. The atmosphere is vibrant, fun, and family-friendly, focused on bringing excitement and happiness to celebrations.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -52,15 +50,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ללולילנד
-Lululiland is Israel's leading inflatable and attraction rental company for events, transforming every occasion into a colorful and unforgettable adventure. The brand emphasizes personal service, certified and safe equipment, and creating joyful experiences filled with smiles. The atmosphere is vibrant, fun, and family-friendly, focused on bringing excitement and happiness to celebrations.
-
-## Target Audience
-הורים ומארגני אירועים
-
-## Industry
-אירועים ובידור
-
+## About Business
 ---
 
 # Additional Resources
