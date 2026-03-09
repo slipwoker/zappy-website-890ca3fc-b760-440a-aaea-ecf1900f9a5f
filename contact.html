@@ -328,10 +328,10 @@
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
-          <svg width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
         </button>
         <button class="close-search" id="close-mobile-search">
-          <svg width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
         </button>
       </div>
       <div class="search-results" id="mobile-search-results"></div>
@@ -340,16 +340,16 @@
 <script>window.ZAPPY_WEBSITE_ID = "890ca3fc-b760-440a-aaea-ecf1900f9a5f";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg class="hamburger-icon" width="24" height="24" viewbox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewbox="0 0 24 24" fill="none" style="display: none;">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
   
   <button class="phone-header-btn" aria-label="Call">
-    <svg width="20" height="20" viewbox="0 0 24 24" fill="currentColor">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
   </button>
@@ -364,7 +364,7 @@
     <li class="menu-item-has-children zappy-products-dropdown">
       <a href="/products">
         מוצרים
-        <svg class="dropdown-arrow" width="12" height="12" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M6 9l6 6 6-6"></path>
         </svg>
       </a>
@@ -376,10 +376,10 @@
   <li><a href="/safety">בטיחות ואישורים</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
     
     
     
@@ -779,7 +779,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '072-3975708';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -835,17 +835,17 @@
     <div class="contact-page-intro-methods">
       <div class="contact-method-card">
         <div class="contact-method-icon">
-          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewbox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M38 34C35.5 34 33.1 33.5 30.9 32.6C30.3 32.4 29.6 32.5 29.1 33L25.2 36.9C19.4 33.9 14.1 28.7 11.1 22.8L15 18.9C15.5 18.4 15.7 17.7 15.4 17.1C14.5 14.9 14 12.5 14 10C14 8.9 13.1 8 12 8H6C4.9 8 4 8.9 4 10C4 27.7 18.3 42 36 42C37.1 42 38 41.1 38 40V34.1C38 33 37.1 32.1 36 32.1L38 34Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
           </svg>
         </div>
         <h3>התקשרו אלינו</h3>
         <p>שיחה אישית עם מומחה השכרת מתנפחים</p>
-        <a href="tel:[business_phone]" class="contact-method-link">חייגו עכשיו</a>
+        <a href="tel:072-3975708" class="contact-method-link">חייגו עכשיו</a>
       </div>
       <div class="contact-method-card">
         <div class="contact-method-icon">
-          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewbox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M34 8H14C10.7 8 8 10.7 8 14V34C8 37.3 10.7 40 14 40H34C37.3 40 40 37.3 40 34V14C40 10.7 37.3 8 34 8Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
             <path d="M24 30C27.3137 30 30 27.3137 30 24C30 20.6863 27.3137 18 24 18C20.6863 18 18 20.6863 18 24C18 27.3137 20.6863 30 24 30Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
             <path d="M35 13V13.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -853,11 +853,11 @@
         </div>
         <h3>WhatsApp מהיר</h3>
         <p>תשובות מיידיות ותמונות של האטרקציות</p>
-        <a href="https://wa.me/[whatsapp_handle]" target="_blank" class="contact-method-link">שלחו הודעה</a>
+        <a href="#" target="_blank" class="contact-method-link" style="display:none !important;">שלחו הודעה</a>
       </div>
       <div class="contact-method-card">
         <div class="contact-method-icon">
-          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewbox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M8 12L24 24L40 12M8 12V36C8 37.1 8.9 38 10 38H38C39.1 38 40 37.1 40 36V12M8 12C8 10.9 8.9 10 10 10H38C39.1 10 40 10.9 40 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
           </svg>
         </div>
@@ -868,7 +868,7 @@
     </div>
   </div>
   <div class="contact-page-intro-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewbox="0 0 1200 40" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 40" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0,40 L0,20 Q100,18 200,22 T400,18 Q500,22 600,20 T800,22 Q900,18 1000,20 T1200,22 L1200,40 Z" fill="var(--bg-light)"></path>
     </svg>
   </div>
@@ -904,14 +904,14 @@
           <p class="reassurance-intro">אנחנו כאן כדי להפוך את האירוע שלכם למושלם! איש צוות יחזור אליכם במהירות עם המלצה מדויקת שמתאימה בדיוק לגילאים, לשטח ולסוג האירוע שלכם.</p>
           <ul class="reassurance-list">
             <li>
-              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"></circle>
                 <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
               </svg>
               <span>מענה תוך 24 שעות בימי עבודה</span>
             </li>
             <li>
-              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect x="3" y="6" width="18" height="13" rx="2" stroke="currentColor" stroke-width="2"></rect>
                 <path d="M3 9h18" stroke="currentColor" stroke-width="2"></path>
                 <circle cx="7" cy="13" r="1" fill="currentColor"></circle>
@@ -920,7 +920,7 @@
               <span>הצעת מחיר מפורטת וברורה</span>
             </li>
             <li>
-              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg data-no-icon-edit="true" aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path>
               </svg>
               <span>ייעוץ מקצועי לבחירת האטרקציות המתאימות</span>
@@ -931,7 +931,7 @@
     </div>
   </div>
   <div class="contact-confetti-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewbox="0 0 1200 60" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0,60 L0,45 L1200,45 L1200,60 Z" fill="var(--bg-light)"></path>
       <circle cx="80" cy="25" r="4" fill="var(--secondary)" opacity="0.4"></circle>
       <rect x="150" y="18" width="6" height="6" fill="var(--accent)" opacity="0.35" transform="rotate(15 153 21)"></rect>
@@ -962,15 +962,14 @@
     <div class="contact-location-map-wrapper">
       <div class="contact-location-map-block">
         <img data-placeholder="contact-location-map-image" data-context="A friendly illustrated map of central Israel showing service coverage areas - Tel Aviv, Jerusalem, Sharon region, and Shephelah - with colorful pin markers and playful inflatable balloon icons scattered across the map. The map should have a bright, cheerful style with soft pastel colors and simple geographic outlines. Include small illustrated icons of bouncy castles and attractions to emphasize the fun rental service theme. The design should feel welcoming and family-friendly, suitable for an event rental business." width="600" height="450" src="/assets/site-contact-location-map-image.webp" alt="מפת אזורי השירות של ללולילנד - מרכז הארץ">
-        <div class="contact-location-map-overlay">
-          <i class="fas fa-map-marker-alt contact-location-map-icon" aria-hidden="true"></i>
+        <div class="contact-location-map-overlay">החלוץ הלוחם 7, נתניה<i class="fas fa-map-marker-alt contact-location-map-icon" aria-hidden="true"></i>
           <p class="contact-location-map-label">אזורי השירות שלנו</p>
         </div>
       </div>
     </div>
   </div>
   <div class="contact-location-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewbox="0 0 1200 60" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="contact-location-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" style="stop-color:var(--bg-light);stop-opacity:1"></stop>
@@ -1016,23 +1015,23 @@
         <ul class="contact-list">
           <li>
             <i class="fas fa-envelope"></i>
-            <a href="mailto:[business_email]">[business_email]</a>
+            <a href="mailto:rptkcitruhw111@gmail.com">rptkcitruhw111@gmail.com</a>
           </li>
           <li>
             <i class="fas fa-phone"></i>
-            <a href="tel:[business_phone]">[business_phone]</a>
+            <a href="tel:072-3975708">072-3975708</a>
           </li>
           <li><a href="/"><i class="fas fa-map-marker-alt"></i>
-            <span>[business_address]</span></a></li>
+            <span>החלוץ הלוחם 7, נתניה</span></a></li>
         </ul>
       </div>
       
       <div class="footer-column footer-social">
         <h3 class="footer-title">עקבו אחרינו</h3>
         <div class="social-links">
-          <a href="[facebook_handle]" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-          <a href="[instagram_handle]" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-          <a href="[whatsapp_handle]" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="WhatsApp" style="display:none !important;"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
     </div>
