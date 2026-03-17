@@ -22,15 +22,15 @@ https://lulyland.zappy5.app/contact
 
 ### Products
 https://lulyland.zappy5.app/products
-המוצרים שלנו - ללולילנד
+המוצרים שלנו - לולילנד
 
 ### Product Detail
 https://lulyland.zappy5.app/product/:slug
-פרטי המוצר - ללולילנד
+פרטי המוצר - לולילנד
 
 ### Category
 https://lulyland.zappy5.app/category/:slug
-מוצרים - ללולילנד
+מוצרים - לולילנד
 
 ## Legal & Policy
 
