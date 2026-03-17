@@ -243,6 +243,8 @@
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
 
+
+
 <style data-zappy-section-v2-css="true">
 /* V2 Regenerated Section CSS */
 .index-hero-section {
@@ -252,22 +254,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: visible;
-  background-color: #0E1E3A;
-  color: var(--text-light);
-}
-
-.index-hero-section__bg-wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 0;
   overflow: hidden;
+  direction: rtl;
 }
 
-.index-hero-section__bg-image {
+.index-hero-section .index-hero-bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -279,173 +270,155 @@
   z-index: 0;
 }
 
-.index-hero-section__scrim {
+.index-hero-section .index-hero-scrim {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(180deg, rgba(14,30,58,0.45) 0%, rgba(14,30,58,0.75) 100%);
+  background: linear-gradient(180deg, rgba(232, 0, 29, 0.15) 0%, rgba(232, 0, 29, 0.75) 60%, rgba(232, 0, 29, 0.85) 100%);
   z-index: 1;
   pointer-events: none;
 }
 
-.index-hero-section__content {
+.index-hero-section .index-hero-content {
   position: relative;
   z-index: 10;
   width: 100%;
+  padding: 0 24px;
+}
+
+.index-hero-section .index-hero-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 140px 24px 80px;
-  text-align: right;
-  direction: rtl;
+  text-align: center;
 }
 
-.index-hero-section__text-group {
-  max-width: 900px;
-  margin-inline-start: auto;
-  margin-inline-end: 0;
+.index-hero-section .index-hero-text-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
 }
 
-.index-hero-section__headline {
+.index-hero-section .index-hero-headline {
+  font-family: Heebo, Assistant, system-ui, Arial, sans-serif;
   font-size: 56px;
   font-weight: 900;
   line-height: 1.1;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
   color: var(--text-light);
-  text-shadow: 0 6px 14px rgba(14,30,58,0.65);
-  margin: 0 0 24px 0;
-  font-family: 'Heebo', 'Assistant', system-ui, -apple-system, Arial, sans-serif;
+  text-align: center;
+  text-shadow: 0 6px 18px rgba(0, 0, 0, 0.65), 0 2px 8px rgba(0, 0, 0, 0.5);
+  max-width: 900px;
+  margin: 0;
 }
 
-.index-hero-section__subtitle {
+.index-hero-section .index-hero-subtitle {
+  font-family: Heebo, Assistant, system-ui, Arial, sans-serif;
   font-size: 22px;
-  font-weight: 800;
-  line-height: 1.45;
-  color: rgba(255,255,255,0.95);
-  text-shadow: 0 4px 10px rgba(14,30,58,0.55);
-  margin: 0 0 40px 0;
-  font-family: 'Heebo', 'Assistant', system-ui, -apple-system, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--text-light);
+  text-align: center;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.55), 0 2px 6px rgba(0, 0, 0, 0.4);
+  max-width: 750px;
+  margin: 0;
+  opacity: 0.95;
 }
 
-.index-hero-section__cta-group {
+.index-hero-section .index-hero-cta-group {
   display: flex;
-  gap: 16px;
-  align-items: center;
   flex-wrap: wrap;
-  justify-content: flex-start;
-  direction: rtl;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
 }
 
-.index-hero-section__btn {
+.index-hero-section .index-hero-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  text-decoration: none;
-  font-family: 'Heebo', 'Assistant', system-ui, -apple-system, Arial, sans-serif;
-  font-weight: 800;
+  font-family: Heebo, Assistant, system-ui, Arial, sans-serif;
   font-size: 18px;
+  font-weight: 800;
   line-height: 1;
+  text-decoration: none;
+  border-radius: 12px;
   padding: 16px 32px;
-  border-radius: 10px;
-  transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease;
-  cursor: pointer;
-  border: none;
+  transition: all 220ms ease;
   white-space: nowrap;
+  border: none;
+  cursor: pointer;
+  text-shadow: none;
 }
 
-.index-hero-section__btn--primary {
-  background: var(--primary);
-  color: var(--text-light);
-  box-shadow: 0 8px 18px rgba(232,0,29,0.45);
-}
-
-.index-hero-section__btn--primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 24px rgba(232,0,29,0.55);
-}
-
-.index-hero-section__btn--secondary {
+.index-hero-section .index-hero-btn-primary {
   background: var(--accent);
   color: var(--text-dark);
-  box-shadow: 0 8px 18px rgba(255,230,0,0.35);
+  box-shadow: 0 8px 20px rgba(255, 230, 0, 0.4), 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-.index-hero-section__btn--secondary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 24px rgba(255,230,0,0.45);
+.index-hero-section .index-hero-btn-primary:hover {
+  background: #FFD700;
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(255, 230, 0, 0.5), 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
-.index-hero-section__scroll-indicator {
-  position: absolute;
-  bottom: 40px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 10;
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.index-hero-section .index-hero-btn-secondary {
+  background: transparent;
   color: var(--text-light);
-  opacity: 0.8;
-  animation: index-hero-bounce 2s infinite;
-  pointer-events: none;
+  border: 2px solid var(--text-light);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
-.index-hero-section__scroll-indicator svg {
-  display: block;
-  width: 100%;
-  height: 100%;
-  filter: drop-shadow(0 2px 6px rgba(14,30,58,0.4));
-}
-
-@keyframes index-hero-bounce {
-  0%, 100% {
-    transform: translateX(-50%) translateY(0);
-  }
-  50% {
-    transform: translateX(-50%) translateY(10px);
-  }
+.index-hero-section .index-hero-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
 @media (max-width: 768px) {
   .index-hero-section {
     min-height: 100vh;
+    padding-top: 100px;
   }
   
-  .index-hero-section__content {
-    padding: 120px 16px 60px;
+  .index-hero-section .index-hero-content {
+    padding: 0 16px;
   }
   
-  .index-hero-section__headline {
+  .index-hero-section .index-hero-headline {
     font-size: 36px;
     line-height: 1.15;
-    margin-bottom: 16px;
+    text-shadow: 0 4px 14px rgba(0, 0, 0, 0.7), 0 2px 6px rgba(0, 0, 0, 0.6);
   }
   
-  .index-hero-section__subtitle {
+  .index-hero-section .index-hero-subtitle {
     font-size: 18px;
     line-height: 1.5;
-    margin-bottom: 32px;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.6), 0 1px 4px rgba(0, 0, 0, 0.5);
   }
   
-  .index-hero-section__cta-group {
+  .index-hero-section .index-hero-text-group {
+    gap: 20px;
+  }
+  
+  .index-hero-section .index-hero-cta-group {
     flex-direction: column;
-    align-items: stretch;
+    width: 100%;
     gap: 12px;
+    margin-top: 12px;
   }
   
-  .index-hero-section__btn {
+  .index-hero-section .index-hero-btn {
     width: 100%;
+    max-width: 320px;
     font-size: 16px;
     padding: 14px 24px;
-  }
-  
-  .index-hero-section__scroll-indicator {
-    bottom: 24px;
-    width: 32px;
-    height: 32px;
   }
 }
 </style>
@@ -1034,26 +1007,24 @@
   
   <main>
     <section class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" data-zappy-section="true">
-  <div class="index-hero-section__bg-wrapper">
-    <div class="index-hero-section__bg-image" style="background-image: url('assets/site-index-hero-bg.webp');  background-size: cover; background-position: center;"></div>
-    <div class="index-hero-section__scrim"></div>
-  </div>
+  <!-- Background Image Layer -->
+  <div class="index-hero-bg" style="background-image: url('assets/site-index-hero-bg.webp');  background-size: cover; background-position: center;"></div>
   
-  <div class="index-hero-section__content">
-    <div class="index-hero-section__text-group">
-      <h1 class="index-hero-section__headline">השכרת מתנפחים לימי הולדת – חוויה בטוחה ומלאת שמחה</h1>
-      <h3 class="index-hero-section__subtitle">ציוד מוסמך, הגעה דייקנית ושירות אישי לימי הולדת, אירועי בתי ספר, אירועים קהילתיים ומפגשים פרטיים</h3>
-      <div class="index-hero-section__cta-group">
-        <a href="#contact" class="index-hero-section__btn index-hero-section__btn--primary">צרו איתנו קשר להצעה מותאמת</a>
-        <a href="#safety" class="index-hero-section__btn index-hero-section__btn--secondary">בטיחות והסמכות</a>
+  <!-- Gradient Scrim Overlay for Text Legibility -->
+  <div class="index-hero-scrim"></div>
+  
+  <!-- Hero Content Overlay -->
+  <div class="index-hero-content">
+    <div class="index-hero-container">
+      <div class="index-hero-text-group">
+        <h1 class="index-hero-headline">השכרת מתנפחים לימי הולדת – חוויה בטוחה ומלאת שמחה</h1>
+        <h3 class="index-hero-subtitle">ציוד מוסמך, הגעה דייקנית ושירות אישי לימי הולדת, אירועי בתי ספר, אירועים קהילתיים ומפגשים פרטיים</h3>
+        <div class="index-hero-cta-group">
+          <a href="#contact" class="index-hero-btn index-hero-btn-primary">צרו איתנו קשר להצעה מותאמת</a>
+          <a href="#safety" class="index-hero-btn index-hero-btn-secondary">בטיחות והסמכות</a>
+        </div>
       </div>
     </div>
-  </div>
-  
-  <div class="index-hero-section__scroll-indicator">
-    <svg data-no-icon-edit="true" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 5V19M12 19L5 12M12 19L19 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-    </svg>
   </div>
 </section>
 
