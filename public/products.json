@@ -1,0 +1,1593 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-06-02T18:16:53.776Z",
+  "base_url": "https://lulyland.zappy5.app",
+  "currency": "ILS",
+  "count": 66,
+  "products": [
+    {
+      "id": "040547aa-e526-4314-8da5-b6654f4bedbc",
+      "slug": "gnrtvrym-qow9kh",
+      "name": "גנרטורים",
+      "name_translations": {},
+      "description": "<p>גנרטורים חזקים לכל אירוע – כוח שעובד בשבילך! ⚡ צריכים חשמל בשטח? לולי לבד מספקת לכם פתרונות אנרגיה אמינים, עוצמתיים ופשוטים לתפעול לכל מטרה: כוח לכל ציוד: מושלם למתנפחים, תאורה, הגברה ומסיבות טבע.</p>",
+      "short_description": null,
+      "sku": "122",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773068373691-88f2dk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/gnrtvrym-qow9kh",
+      "categories": [
+        "ציוד משלים"
+      ],
+      "updated_at": "2026-03-09T14:59:43.413Z"
+    },
+    {
+      "id": "034298f1-0783-468d-910b-834aab5784e1",
+      "slug": "mkvnt-pvkpvrn-iqphfs",
+      "name": "מכונת פוקפורן",
+      "name_translations": {},
+      "description": "<p>מכונת פוקפורן - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "71",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784879-qxgnny.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnt-pvkpvrn-iqphfs",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:17:35.437Z"
+    },
+    {
+      "id": "b69235e9-8ffc-4aaf-b0de-67f6a641cef6",
+      "slug": "mkvnt-vvapl-blgy-al-mkl-650mxb",
+      "name": "מכונת וואפל בלגי על מקל",
+      "name_translations": {},
+      "description": "<p>מכונת וואפל בלגי על מקל - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "72",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784400-mwrr9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnt-vvapl-blgy-al-mkl-650mxb",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:17:48.618Z"
+    },
+    {
+      "id": "032efdb9-1465-404d-9185-844462081ca5",
+      "slug": "mkvnt-svkr-sharvt-sbta-ca1em2",
+      "name": "מכונת סוכר (שערות סבתא)",
+      "name_translations": {},
+      "description": "<p>מכונת סוכר (שערות סבתא) - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "70",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784841-ohdzbi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnt-svkr-sharvt-sbta-ca1em2",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:18:03.001Z"
+    },
+    {
+      "id": "e7dac008-e945-43c7-8e50-5e9c2799fbca",
+      "slug": "tsypsr-mtgnt-vx97tp",
+      "name": "ציפסר (מטגנת)",
+      "name_translations": {},
+      "description": "<p>ציפסר (מטגנת) - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "74",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784458-yjj84g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/tsypsr-mtgnt-vx97tp",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:18:28.354Z"
+    },
+    {
+      "id": "f3632b5d-9ab4-4063-926c-921c6f38a6aa",
+      "slug": "mklvt-lmkvnh-svkr-j8s3st",
+      "name": "מקלות למכונה סוכר",
+      "name_translations": {},
+      "description": "<p>מקלות למכונה סוכר - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "123",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784842-x8c7df.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mklvt-lmkvnh-svkr-j8s3st",
+      "categories": [
+        "ציוד משלים"
+      ],
+      "updated_at": "2026-03-09T14:18:38.542Z"
+    },
+    {
+      "id": "3dd90996-3190-4b49-84a7-653cc741fe7c",
+      "slug": "mkvnh-nknkyvt-gdvlh-hwyhve",
+      "name": "מכונה נקנקיות גדולה",
+      "name_translations": {},
+      "description": "<p>מכונה נקנקיות גדולה - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "77",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065784477-5ip6ud.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnh-nknkyvt-gdvlh-hwyhve",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:18:54.280Z"
+    },
+    {
+      "id": "513b236a-9171-42d5-952f-beead63894ee",
+      "slug": "mkvnt-brd-2-tamym-a9r1nh",
+      "name": "מכונת ברד 2 טעמים",
+      "name_translations": {},
+      "description": "<p>מכונת ברד 2 טעמים - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "68",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065783272-2n1xgj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnt-brd-2-tamym-a9r1nh",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:19:10.697Z"
+    },
+    {
+      "id": "e231e636-1173-4675-aa97-33c5fa1b7cc5",
+      "slug": "mpl-shvkld-oviqh9",
+      "name": "מפל שוקלד",
+      "name_translations": {},
+      "description": "<p>מפל שוקלד - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "78",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065783087-z675xn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mpl-shvkld-oviqh9",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T14:19:20.601Z"
+    },
+    {
+      "id": "9283c10d-8bc8-46e2-8556-e44a14fdae0c",
+      "slug": "abkh-lglydh-krpvapl-blgy-0p79kt",
+      "name": "אבקה לגלידה /קרף/ואפל בלגי",
+      "name_translations": {},
+      "description": "<p>אבקה לגלידה /קרף/ואפל בלגי - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "123411",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065781555-s79kg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/abkh-lglydh-krpvapl-blgy-0p79kt",
+      "categories": [
+        "ציוד משלים"
+      ],
+      "updated_at": "2026-03-09T14:19:37.954Z"
+    },
+    {
+      "id": "c4e85420-2f4c-4e35-b1d3-c66216b42316",
+      "slug": "mglsht-dv-mslvly-akstrym-z5viqu",
+      "name": "מגלשת דו מסלולי אקסטרים",
+      "name_translations": {},
+      "description": "<p>מגלשת מים דו-מסלולית ענקית בגודל 10×5 מטר! שני מסלולים להחלקה במקביל, עיצוב צבעוני ומרשים שמתאים במיוחד לאירועים גדולים, קייטנות ופסטיבלים. מתאימה לגילאי 5–14 – תחרות, כיף ואדרנלין מובטח! 💦🏁</p>",
+      "short_description": null,
+      "sku": "22",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065771189-yrxw9j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-dv-mslvly-akstrym-z5viqu",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:20:01.231Z"
+    },
+    {
+      "id": "4198cae7-4bc3-4868-991e-59b42cb477cd",
+      "slug": "mglsht-dklym-sgvlh-2ls5er",
+      "name": "מגלשת דקלים סגולה",
+      "name_translations": {},
+      "description": "<p>מגלשת מים דקלים סגולה בגודל 7×3×6 מטר. עיצוב ייחודי בצבע סגול עם דקלים טרופיים שמשדר אווירת חופש וקיץ! מתאימה לגילאי 3–12, עם חיבור למים להחלקה מהנה ומרעננת.</p>",
+      "short_description": null,
+      "sku": "9",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065770906-4x4e9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-dklym-sgvlh-2ls5er",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:20:16.154Z"
+    },
+    {
+      "id": "ef61b569-1580-4587-81d6-55d679191a97",
+      "slug": "mtnpch-nsykvt-jh98jk",
+      "name": "מתנפח נסיכות",
+      "name_translations": {},
+      "description": "<p>מתנפח נסיכות קסום בגודל 5x5 מטר, בעיצוב מרהיב של ארמון מלכותי עם דמויות הנסיכות האהובות. כולל אזור קפיצות ומגלשה מהנה. מושלם לאירועי בנות, ימי הולדת וחוויות מהאגדות! 👑🌸</p>",
+      "short_description": null,
+      "sku": "39",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065770850-sihlc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-nsykvt-jh98jk",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:20:56.511Z"
+    },
+    {
+      "id": "189a8f92-ac7f-4a8e-979a-84cfadb1916e",
+      "slug": "mglsht-ychydt-hchylvts-3z17o1",
+      "name": "מגלשת יחידת החילוץ",
+      "name_translations": {},
+      "description": "<p>מתנפח מיניון צבעוני בגודל 5×5 מטר כולל מגלשה פנימית, קפיצה וכניסה דרך הפה! עיצוב מדליק שתופס את העין ומתאים לגילאי 2–8. מושלם לימי הולדת, אירועים ופעילויות בגני ילדים. 🎉</p>",
+      "short_description": null,
+      "sku": "3",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065771189-qtz8on.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-ychydt-hchylvts-3z17o1",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:21:33.790Z"
+    },
+    {
+      "id": "c358cf88-0378-4e1e-8579-41a8cb7fa3f3",
+      "slug": "mglsht-mym-anh-valzh-18thac",
+      "name": "מגלשת מים אנה ואלזה",
+      "name_translations": {},
+      "description": "<p>מגלשת מים מתנפחת אנה ואלזה בגודל 7×3×6 מטר. כוללת חיבור לצינור מים להחלקה כיפית. מתאימה לגילאי 3–12. מושלמת לקיץ, ימי הולדת ואירועים עם אווירה קסומה במיוחד!</p>",
+      "short_description": null,
+      "sku": "13",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065770741-zbrlv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-mym-anh-valzh-18thac",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:21:46.649Z"
+    },
+    {
+      "id": "a843d632-f381-421c-9858-69a1db8a7a8b",
+      "slug": "mglsht-ktsp-vghx0y",
+      "name": "מגלשת קצף",
+      "name_translations": {},
+      "description": "<p>מגלשת מים קצץ בגודל 10×3 מטר! חוויה מרעננת, ארוכה ומלאת אדרנלין לילדים שאוהבים מהירות ואתגר. מתאימה לגילאי 4 ומעלה, מושלמת לאירועים, קייטנות וימי קיץ חמים במיוחד!</p>",
+      "short_description": null,
+      "sku": "11",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065772809-d9ksssp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-ktsp-vghx0y",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:22:05.318Z"
+    },
+    {
+      "id": "fd298fda-41a8-4fbe-bb13-a8c7d4c2468a",
+      "slug": "mglsht-myky-vmyny-owwzf6",
+      "name": "מגלשת מיקי ומיני",
+      "name_translations": {},
+      "description": "<p>מגלשת מיקי ומיני צבעונית ומרהיבה – חוויה בלתי נשכחת לילדים! מתאימה לימי הולדת, אירועים ומסיבות. בטיחותית, כיפית ומושכת עין. השכרת מתנפחים עם לולילנד – חוויה עם חיוך!</p>",
+      "short_description": null,
+      "sku": "12",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065771674-mbj72.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-myky-vmyny-owwzf6",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:22:22.106Z"
+    },
+    {
+      "id": "39a23896-e59c-43b6-a4de-38abafbfd4b0",
+      "slug": "mglsht-spydrmn-r3haya",
+      "name": "מגלשת ספידרמן",
+      "name_translations": {},
+      "description": "<p>מגלשת ספידרמן - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "14",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065770906-s6mwsd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-spydrmn-r3haya",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:22:47.783Z"
+    },
+    {
+      "id": "f51d0b89-48dc-487a-bb0f-34b778b85ad8",
+      "slug": "mtnpch-pvkymvn-eqo3l8",
+      "name": "מתנפח פוקימון",
+      "name_translations": {},
+      "description": "<p>מידות: 4x4 מטר חוויה מרתקת בעולם הפוקימונים עם מתנפח צבעוני ומרשים! הילדים יקפצו וישחקו לצד דמויות אהובות כמו פיקאצ’ו ודרקון האש. מתקן מלא חיים ואנרגיה, מושלם לאירועים וימי הולדת בלתי נשכחים. מתאים לגילאים: 3-8</p>",
+      "short_description": null,
+      "sku": "30",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065769725-6gw13f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-pvkymvn-eqo3l8",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:23:23.982Z"
+    },
+    {
+      "id": "2324905c-542d-4830-91f1-41593d6e4395",
+      "slug": "mglsht-plmyngv-ikj716",
+      "name": "מגלשת פלמינגו",
+      "name_translations": {},
+      "description": "<p>מגלשת מים פלמינגו צבעונית ומרהיבה בגודל 7×3×6 מטר. בעיצוב קיצי מושלם שכובש את העין ומשדר שמחה! מתאימה לגילאי 3–12, עם חיבור למים להחלקה כיפית באירועי קיץ וימי הולדת.</p>",
+      "short_description": null,
+      "sku": "10",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065767989-ekoa6k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mglsht-plmyngv-ikj716",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T14:23:44.960Z"
+    },
+    {
+      "id": "dd691f39-cf8b-460e-9c05-e91751810195",
+      "slug": "mtnpch-mmtkym-myvchd-c24736",
+      "name": "מתנפח ממתקים מיוחד",
+      "name_translations": {},
+      "description": "<p>ממלכת הממתקים – מתנפח צבעוני ומתוק במיוחד! מתקן מתנפח מרהיב בגודל 5x5 מטר, מעוצב בהשראת עולם הממתקים עם סוכריות ענק, גלידות ודונאטס צבעוניים. כולל מגלשה מהנה, קפיצות ואתגרים שיעניקו חוויה מתוקה ובלתי נשכחת לילדים</p>",
+      "short_description": null,
+      "sku": "60",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756997-23edc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-mmtkym-myvchd-c24736",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:24:10.333Z"
+    },
+    {
+      "id": "84c2df42-1b5e-44f6-b6fd-9f3e1878a28d",
+      "slug": "gyp-4x4-tpoauk",
+      "name": "גיפ 4X4",
+      "name_translations": {},
+      "description": "<p>אתגרון 4 על 4 מסלול אתגר מתנפח בגודל 4x4 מטר, ענקק ומלא אקשן! כולל מכשולים, זחילות וקפיצות שישאירו את הילדים פעילים ושמחים. מתאים במיוחד לימי הולדת, אירועי קהילה וחגיגות עם אנרגיות טובות.</p>",
+      "short_description": null,
+      "sku": "63",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773068439475-v2kfo8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/gyp-4x4-tpoauk",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T15:00:45.696Z"
+    },
+    {
+      "id": "4114809e-5d3b-473c-9adc-0df0a41f719c",
+      "slug": "mtnpch-mlk-haryvt-kvmpkty-i13q98",
+      "name": "מתנפח מלך האריות קומפקטי",
+      "name_translations": {},
+      "description": "<p>🦁 מתנפח מלך האריות – מתקן קפיצות צבעוני עם דמויות אהובות מהסרט הקלאסי. מתאים לקטנטנים, בטיחותי ושמח, מושלם לימי הולדת, אירועים משפחתיים ופעילויות גן.</p>",
+      "short_description": null,
+      "sku": "56",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756317-oghygd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-mlk-haryvt-kvmpkty-i13q98",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:24:45.501Z"
+    },
+    {
+      "id": "c8e1da3e-4409-4b6a-b740-c4741ea4d282",
+      "slug": "mtnpch-lvlv-ebbs0v",
+      "name": "מתנפח לולו",
+      "name_translations": {},
+      "description": "<p>🎀 מתנפח LOL בובות – חלום ורוד שהופך כל מסיבה לבלתי נשכחת! המתקן כולל דמויות ענק של בובות ה-LOL האהובות, עם מגלשה רחבה, קפיצות והמון צבעוניות מרהיבה. מתאים במיוחד לימי הולדת, אירועי קיץ ופעילויות קהילתיות – כל ילדה תרגיש בתוך עולם ה-LOL הקסום</p>",
+      "short_description": null,
+      "sku": "46",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756474-99dj4d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-lvlv-ebbs0v",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:25:02.622Z"
+    },
+    {
+      "id": "d03a164a-644e-4ac1-9d99-f0bd255ddab1",
+      "slug": "kvptsym-am-mtsvvt-bgiu2d",
+      "name": "קופצים עם מצוות",
+      "name_translations": {},
+      "description": "<p>מתנפח יהודי – חוויה קופצנית עם אלמנטים מסורתיים כמו שופר ותורה. צבעוני, בטיחותי ומושלם לאירועי חגים, מסיבות קהילה וימי הולדת עם ניחוח יהודי מיוחד.</p>",
+      "short_description": null,
+      "sku": "53",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756131-hk6qam.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/kvptsym-am-mtsvvt-bgiu2d",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:25:17.459Z"
+    },
+    {
+      "id": "61916bfe-875a-4b3c-92ff-516e4bd1887b",
+      "slug": "mtnpch-ychydt-hchylvts-m4p4xq",
+      "name": "מתנפח יחידת החילוץ",
+      "name_translations": {},
+      "description": "<p>כל ילד חולם לקפוץ, לרוץ ולהחליק לצד הדמויות האהובות מצוות PAW Patrol! עם עיצוב צבעוני ודמויות ענק של הכלבים המוכרים, המתקן מוסיף אנרגיה, כיף והרבה חיוכים לכל אירוע. מתאים במיוחד לימי הולדת, אירועי קהילה וחגיגות קיץ מלאות שמחה.</p>",
+      "short_description": null,
+      "sku": "50",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065757778-n6xpgj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-ychydt-hchylvts-m4p4xq",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:25:34.618Z"
+    },
+    {
+      "id": "46b9ea1a-2182-4f9f-88b8-a6814adfbb32",
+      "slug": "mtnpch-vy-ay-py-k6lly0",
+      "name": "מתנפח  וי אי פי",
+      "name_translations": {},
+      "description": "<p>🎈 מתנפח קפיצה ומגלשה צבעוני – קומפקטי, בטיחותי ומושלם לגני ילדים, ימי הולדת וחללים סגורים. מאפשר קפיצות והחלקות בכיף ובביטחון, עם עיצוב צבעוני שמוסיף שמחה לכל אירוע.</p>",
+      "short_description": null,
+      "sku": "52",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756474-rawmes.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-vy-ay-py-k6lly0",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:25:44.314Z"
+    },
+    {
+      "id": "64cb0cf9-242e-4c2b-923d-45eb4b37893d",
+      "slug": "atgrvn-mmtkym-9sh1os",
+      "name": "אתגרון ממתקים",
+      "name_translations": {},
+      "description": "<p>אתגרון ממתקים מסלול אתגר מתנפח צבעוני ומרשים, עם שערי כניסה בעיצוב סוכריות מקל ענקיות, מכשולים פנימיים ומגלשה מהנה בסיום. אידיאלי לתחרויות בין ילדים, פריקת אנרגיה וחוויית אקשן מתוקה במיוחד.</p>",
+      "short_description": null,
+      "sku": "62",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065756023-1va68.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/atgrvn-mmtkym-9sh1os",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:26:58.979Z"
+    },
+    {
+      "id": "6a8147b2-b675-4db8-acda-553c4a7a25ac",
+      "slug": "mtnpch-ayrvmn-c98lhu",
+      "name": "מתנפח אירומן",
+      "name_translations": {},
+      "description": "<p>⚡ מתנפח איירון מן – חוויה עוצמתית עם גיבור העל האגדי! הילדים קופצים, משתוללים ועוברים בין מכשולים בתוך מתקן צבעוני ומלא אקשן. מושלם לימי הולדת, אירועים וחגיגות שמחפשות כיף ואדרנלין.</p>",
+      "short_description": null,
+      "sku": "51",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065754691-0gxica.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-ayrvmn-c98lhu",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:30:21.165Z"
+    },
+    {
+      "id": "439b8034-3da3-476b-b83d-d827bec726a3",
+      "slug": "mtnpch-chvvh-q6qmb0",
+      "name": "מתנפח חווה",
+      "name_translations": {},
+      "description": "<p>מתנפח חוות החיות חוויה צבעונית לילדים בתוך עולם החווה! המתקן כולל בית חווה גדול, מגלשה, טחנת רוח, פרות, סוסים ותרנגולות – שילוב קסום של קפיצות, משחקים ודמיון. אידיאלי לאירועים, ימי הולדת והפעלות קהילתיות.</p>",
+      "short_description": null,
+      "sku": "67",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065754269-cn0j1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-chvvh-q6qmb0",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:30:46.550Z"
+    },
+    {
+      "id": "e456c516-9a7f-4665-948e-ce0200990a42",
+      "slug": "park-hdynzavrym-t1a7ky",
+      "name": "פארק הדינזאורים",
+      "name_translations": {},
+      "description": "<p>מתנפח דינוזאורים בגודל 5×5 מטר עם עיצוב סופר מרשים – ראשי טי-רקס ולטאה ענקיים, כניסה דרך הפה, מכשולים וקפיצה. מתאים לגילאי 3–9, מושלם לאירועים וימי הולדת עם קהל שאוהב הרפתקאות! 🦖🔥</p>",
+      "short_description": null,
+      "sku": "17",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065741390-9c74aq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/park-hdynzavrym-t1a7ky",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:33:16.232Z"
+    },
+    {
+      "id": "e02b7efd-a43c-4028-bb73-d734c36ded23",
+      "slug": "mtnpch-trktvr-ieyvjx",
+      "name": "מתנפח טרקטור",
+      "name_translations": {},
+      "description": "<p>🚜 מתנפח שופל – חוויה ייחודית עם מגלשה צבעונית בעיצוב טרקטור ענק! הילדים מטפסים, מחליקים ונהנים מעולם הבנייה בכל קפיצה. מתאים במיוחד לאירועים, ימי הולדת ופעילויות שטח – מלהיב גם את הילדים וגם את ההורים.</p>",
+      "short_description": null,
+      "sku": "48",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773068613303-n5g39.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-trktvr-ieyvjx",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T15:03:51.752Z"
+    },
+    {
+      "id": "a590438f-3aba-449d-b105-ff4e1de9bc03",
+      "slug": "mtnpch-myky-vmyny-vjhoyj",
+      "name": "מתנפח מיקי ומיני",
+      "name_translations": {},
+      "description": "<p>מתנפח מיקי ומיני - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "28",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065741269-agtfq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-myky-vmyny-vjhoyj",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:33:47.908Z"
+    },
+    {
+      "id": "05c1a53a-6d8c-4276-b95a-12199896311e",
+      "slug": "atgrvn-spydrmn-dgm-2-arbinr",
+      "name": "אתגרון ספידרמן דגם 2",
+      "name_translations": {},
+      "description": "<p>אתגרון ספיידרמן משולב בגודל8×3 מטר – כולל מסלול מכשולים, קיר טיפוס, קפיצה ומגלשה! עיצוב גיבורי-על סוחף, חוויה מלאת אנרגיה שמתאימה לגילאי 4–12. מושלם לאירועים וימי הולדת עם אקשן!</p>",
+      "short_description": null,
+      "sku": "6",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065740856-u70gch.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/atgrvn-spydrmn-dgm-2-arbinr",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:35:21.801Z"
+    },
+    {
+      "id": "5a38cc96-32e8-4e9b-9344-85d141e470da",
+      "slug": "mtnpch-mnyvnym-mtvrp-ikdgw6",
+      "name": "מתנפח מניונים מטורף",
+      "name_translations": {},
+      "description": "<p>מתנפח מיניון צבעוני בגודל 5×5 מטר כולל מגלשה פנימית, קפיצה וכניסה דרך הפה! עיצוב מדליק שתופס את העין ומתאים לגילאי 2–8. מושלם לימי הולדת, אירועים ופעילויות בגני ילדים. 🎉</p>",
+      "short_description": null,
+      "sku": "4",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065740338-bhgu7g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-mnyvnym-mtvrp-ikdgw6",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:36:11.035Z"
+    },
+    {
+      "id": "7b41e555-281b-48ae-a973-1c3613b43214",
+      "slug": "atgrvn-myky-vmyny-mhmmm-4l3et7",
+      "name": "אתגרון  מיקי ומיני מהממם",
+      "name_translations": {},
+      "description": "<p>מתנפח מיקי ומיני בגודל 8×3 מטר, צבעוני, שמח ומלא בדמויות אהובות! כולל אזור קפיצה, מכשולים ומגלשה. מתאים לגילאי 2–8. מושלם לגני ילדים, ימי הולדת ואירועים עם קהל צעיר שרוצה חוויה קסומה. 🎉</p>",
+      "short_description": null,
+      "sku": "16",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065741066-mozi7k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/atgrvn-myky-vmyny-mhmmm-4l3et7",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:36:42.826Z"
+    },
+    {
+      "id": "97da10a2-2641-4408-8a33-d9efeeeb1adc",
+      "slug": "mtnpch-brvlstr-eruxr8",
+      "name": "מתנפח ברולסטר",
+      "name_translations": {},
+      "description": "<p>מתנפח צבעוני ומלא אנרגיה עם דמויות אהובות ממשחק Brawl Stars! בגודל 4.5×4.5 מטר – אידיאלי למסיבות ימי הולדת, אירועים קהילתיים וחגיגות משפחתיות. הילדים נהנים מקפיצות, ריצות ומשחק חופשי בתוך מתחם סגור ובטוח.</p>",
+      "short_description": null,
+      "sku": "44",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065740759-ofq847.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-brvlstr-eruxr8",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:37:12.633Z"
+    },
+    {
+      "id": "7ee06840-b811-45e7-81fd-0b1aba15186c",
+      "slug": "mtnpch-svnyk-qzjzrz",
+      "name": "מתנפח סוניק",
+      "name_translations": {},
+      "description": "<p>מתנפח סוניק צבעוני בגודל 4x5 מטר, בעיצוב דינמי של הדמות האהובה. כולל מגלשה מהירה וקפיצות מלאות אנרגיה. מושלם לימי הולדת, אירועים פרטיים ופעילויות מהנות לילדים! 🌀💨</p>",
+      "short_description": null,
+      "sku": "35",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065740132-v05y5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-svnyk-qzjzrz",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:37:55.551Z"
+    },
+    {
+      "id": "e9dcab7f-1bdd-46d2-ab16-fa124e46440c",
+      "slug": "mtnpch-smy-hkbay-20a4sq",
+      "name": "מתנפח סמי הכבאי",
+      "name_translations": {},
+      "description": "<p>מתנפח סמי הכבאי בגודל 4x4 מטר, מעוצב ככבאית מרשימה עם דמויות לוחמי אש. כולל מגלשה פנימית לחוויה מהנה ומלאת אקשן. מתאים לימי הולדת, אירועי קיץ ופעילויות קהילתיות לילדים. 🚒🔥</p>",
+      "short_description": null,
+      "sku": "34",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065739384-i776qq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-smy-hkbay-20a4sq",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:38:09.050Z"
+    },
+    {
+      "id": "34ab09cf-c3bf-4eef-872a-a102de08cae1",
+      "slug": "atgrvn-spydrmn-dgm-1-k3qno6",
+      "name": "אתגרון ספידרמן דגם 1",
+      "name_translations": {},
+      "description": "<p>אתגרון ספיידרמן משולב בגודל 10×3 מטר – כולל מסלול מכשולים, קיר טיפוס, קפיצה ומגלשה! עיצוב ספידרמן סוחף, חוויה מלאת אנרגיה שמתאימה לגילאי 4–12. מושלם לאירועים וימי הולדת עם אקשן!</p>",
+      "short_description": null,
+      "sku": "7",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065738178-vl5g96.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/atgrvn-spydrmn-dgm-1-k3qno6",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:38:45.125Z"
+    },
+    {
+      "id": "2b6ff0dc-fec3-4999-a3b9-32a8ca422b30",
+      "slug": "gymbvry-lktntnym-k4kd3a",
+      "name": "גימבורי לקטנטנים",
+      "name_translations": {},
+      "description": "<p>ג’ימבורי מתנפח מתקן צבעוני לקטנטנים, המשלב זחילות, קפיצות ומשחקי התפתחות בסביבה בטוחה ונעימה. מתאים לגיל הרך ומעניק חוויה מושלמת לילדים ולהורים באירועים, ימי הולדת וחגיגות משפחתיות.</p>",
+      "short_description": null,
+      "sku": "66",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065726285-mwv6v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/gymbvry-lktntnym-k4kd3a",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:39:05.791Z"
+    },
+    {
+      "id": "3294088a-4de8-46a8-adf7-f61e1b2978eb",
+      "slug": "mtnpch-gybvry-al-55yvg1",
+      "name": "מתנפח גיבורי על",
+      "name_translations": {},
+      "description": "<p>מתנפח גיבורי על – חוויה עוצמתית עם כל הדמויות האגדיות! הילדים קופצים ומשתוללים לצד ספיידרמן, הענק הירוק, איירון מן, קפטן אמריקה ותור, באווירה סופר־הרואית מלאת אקשן. מתאים למסיבות יום הולדת, אירועי קהילה וחגיגות שמחפשות אדרנלין וכיף בלי סוף</p>",
+      "short_description": null,
+      "sku": "47",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773068725686-aw8bmn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-gybvry-al-55yvg1",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T15:05:30.421Z"
+    },
+    {
+      "id": "3297af5f-d147-4249-80cb-8a6371a859fc",
+      "slug": "bangy-gvbh-mtvrp-9bqacv",
+      "name": "באנגי גובה מטורף",
+      "name_translations": {},
+      "description": "<p>💥 מתקן באנג’י נינג׳ה 💥 אתגר קפיצה בגובה של כ-5 מטר עם רתמות בטיחות! הילדים נמתחים, קופצים ונוחתים כמו נינג׳ות אמיתיות. חוויה ספורטיבית, עוצמתית וכיפית לגילאי 6 ומעלה – מושלם לאירועים מלאי אנרגיה!</p>",
+      "short_description": null,
+      "sku": "5",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065726522-n5ila.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/bangy-gvbh-mtvrp-9bqacv",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:40:14.927Z"
+    },
+    {
+      "id": "460e2289-5155-4e72-ac05-9c66c7eed662",
+      "slug": "bangy-rn-knvjrc",
+      "name": "באנגי רן",
+      "name_translations": {},
+      "description": "<p>🏃‍♂️ באנג’י רן – תחרות אנרגטית ומצחיקה! שני משתתפים נמתחים בחבלי באנג’י ומנסים להגיע כמה שיותר רחוק לפני שהחבל מחזיר אותם אחורה. מתאים לאירועים, ימי הולדת ופעילויות קהילתיות עם הרבה אקשן וצחוק.</p>",
+      "short_description": null,
+      "sku": "55",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065725398-6ac7s9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/bangy-rn-knvjrc",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:40:28.381Z"
+    },
+    {
+      "id": "d5d851e4-f16a-44e5-9ea3-ee9630c1aa96",
+      "slug": "shvlchn-snvkr-mktsvay-yzin6l",
+      "name": "שולחן סנוקר מקצועי",
+      "name_translations": {},
+      "description": "<p>🎱 השכרת שולחן סנוקר לאירועים – בר מצווה, ימי הולדת ומסיבות. שולחן מקצועי, איכותי ומרשים שמוסיף חוויה ייחודית וכיף לכל גיל. הפעלה מהנה שתשדרג כל חגיגה ותשאיר זיכרון בלתי נשכח!</p>",
+      "short_description": null,
+      "sku": "777",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065725113-q19tqm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shvlchn-snvkr-mktsvay-yzin6l",
+      "categories": [
+        "שולחנות משחק"
+      ],
+      "updated_at": "2026-03-09T14:40:48.135Z"
+    },
+    {
+      "id": "5b95b8dc-4d2b-4a45-8adc-d142d94669e0",
+      "slug": "mslvl-mkshvlym-dynzavrym-k7bhho",
+      "name": "מסלול מכשולים דינזאורים",
+      "name_translations": {},
+      "description": "<p>מתנפח דרקון בגודל 10×3 מטר – חוויה עוצמתית עם כניסה דרך ראש דרקון פתוח, מכשולים, טיפוס ואתגר מהנה לילדים. מתאים לגילאי 4–12, לאירועים שמחפשים אקשן אמיתי וסטייל מיוחד.</p>",
+      "short_description": null,
+      "sku": "15",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065726065-ics2zq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mslvl-mkshvlym-dynzavrym-k7bhho",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:41:11.272Z"
+    },
+    {
+      "id": "49544bfe-dd4a-4d94-8aad-e060240d0a95",
+      "slug": "mtnpch-spydy-mkvnyvt-e6jtud",
+      "name": "מתנפח ספידי מכוניות",
+      "name_translations": {},
+      "description": "<p>מתנפח ספידי מכוניות</p>",
+      "short_description": null,
+      "sku": "1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065726521-mhciwc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-spydy-mkvnyvt-e6jtud",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:42:06.029Z"
+    },
+    {
+      "id": "41b4723d-04dc-4fa9-b6b7-457dd5ba4aa1",
+      "slug": "krnbl-izl6gc",
+      "name": "קרנבל",
+      "name_translations": {},
+      "description": "<p>🎡 קרנבל ענקי – מתנפח צבעוני בסגנון יריד עם עמדות משחק מלהיבות לכולם. מתאים לאירועי קהילה, פסטיבלים, מסיבות וימי הולדת – חוויה שמכניסה אווירת חג אמיתית לכל אירוע.</p>",
+      "short_description": null,
+      "sku": "58",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065725849-09q3w.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/krnbl-izl6gc",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:42:30.694Z"
+    },
+    {
+      "id": "82221b81-d3ef-49b8-a126-40879c4bc983",
+      "slug": "shvlchn-avky-avyr-mktsvay-tw0zdz",
+      "name": "שולחן אוקי אויר מקצועי",
+      "name_translations": {},
+      "description": "<p>🏒 השכרת שולחן הוקי אוויר – אטרקציה ספורטיבית וכיפית לבר מצווה, ימי הולדת ומסיבות. שולחן מקצועי ומרשים שמעניק חוויה מהירה, תחרותית ומהנה לכל גיל ומשדרג כל חגיגה!</p>",
+      "short_description": null,
+      "sku": "666",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065724989-7whz3i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shvlchn-avky-avyr-mktsvay-tw0zdz",
+      "categories": [
+        "שולחנות משחק"
+      ],
+      "updated_at": "2026-03-09T14:36:24.993Z"
+    },
+    {
+      "id": "4439fe06-eb2f-49a6-8d56-7080502bed2a",
+      "slug": "mslvl-nyngh-26-mtr-ydg7o5",
+      "name": "מסלול נינגה 26 מטר",
+      "name_translations": {},
+      "description": "<p>מסלול נינג׳ה ענק באורך 26 מטר, בעיצוב צבעוני ומלא אתגרים. כולל מכשולים, קפיצות ומעבר בין תחנות מאתגרות. אידיאלי לאירועים גדולים, תחרויות ופעילויות אקסטרים לילדים ונוער! 💥🏃‍♂</p>",
+      "short_description": null,
+      "sku": "37",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065724128-9eriep.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mslvl-nyngh-26-mtr-ydg7o5",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:34:36.394Z"
+    },
+    {
+      "id": "ebe1be57-9993-4c55-89f1-96fdef182067",
+      "slug": "shvlchn-pyng-pvng-5yugrj",
+      "name": "שולחן פינג פונג",
+      "name_translations": {},
+      "description": "<p>🏓 השכרת שולחן פינג פונג – פעילות ספורטיבית וכיפית לבר מצווה, ימי הולדת ומסיבות. שולחן מקצועי שמעניק חוויה תחרותית, מהנה ומלאת אנרגיה לכל גיל ומשדרג כל חגיגה!</p>",
+      "short_description": null,
+      "sku": "2345",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773068769515-xpbppp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shvlchn-pyng-pvng-5yugrj",
+      "categories": [
+        "שולחנות משחק"
+      ],
+      "updated_at": "2026-03-09T15:06:19.176Z"
+    },
+    {
+      "id": "b9983712-30ef-47be-9de0-b2dded804a85",
+      "slug": "shar-kdvrgl-ank-00f2hg",
+      "name": "שער כדורגל ענק",
+      "name_translations": {},
+      "description": "<p>שער כדורגל מתנפח – האטרקציה שכל אירוע צריך! מתקן בעיטות למטרה בעיצוב ספורטיבי, המשלב אתגר ודיוק. מושלם לימי הולדת ואירועי חברה, מתאים לכל גיל ומבטיח חוויה תחרותית ומלאת אדרנלין. הבקיעו גול והפכו לכוכבי המגרש</p>",
+      "short_description": null,
+      "sku": "11112455",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065711882-bgkamf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shar-kdvrgl-ank-00f2hg",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:29:59.324Z"
+    },
+    {
+      "id": "f5bb56ad-2cc6-4a8f-8977-03be84071fba",
+      "slug": "mtnpch-770-vs9vug",
+      "name": "מתנפח 770",
+      "name_translations": {},
+      "description": "<p>הנה גרסה עם דגש חסידי, עד 250 תווים: **מתקן מתנפח 770 – חוויה חסידית מרוממת! עיצוב ברוח חב״ד, מתאים לאירועים, מסיבות ופעילויות קהילתיות. משלב כיף, תוכן וקדושה – מושלם לכל הגילאים.**</p>",
+      "short_description": null,
+      "sku": "236906",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065711896-mmiw5n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-770-vs9vug",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:29:42.983Z"
+    },
+    {
+      "id": "8dbedff8-7bcb-43be-a062-80a852774d5a",
+      "slug": "mtnpch-styts-rtw4bs",
+      "name": "מתנפח סטיץ",
+      "name_translations": {},
+      "description": "<p>מתקן מתנפח צבעוני ומרהיב בעיצוב דמויות אהובות מסדרת סטיץ’. המתנפח כולל מגלשה, שטח קפיצות ואלמנטים מיוחדים שמוסיפים חוויה מהנה לילדים. מתאים למסיבות יום הולדת, אירועים קהילתיים וחגיגות שונות. גודל המתקן: 5X5 מטר</p>",
+      "short_description": null,
+      "sku": "41",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065713229-9fjq9b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-styts-rtw4bs",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T14:29:26.376Z"
+    },
+    {
+      "id": "731a6aa4-f839-4211-b878-ec511cda70cb",
+      "slug": "mtsyavt-mdvmh-9aeyee",
+      "name": "מציאות מדומה",
+      "name_translations": {},
+      "description": "<p>מציאות מדומה - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "12344",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065711715-lqlef.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtsyavt-mdvmh-9aeyee",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:29:06.078Z"
+    },
+    {
+      "id": "caa9a40a-af46-421e-807b-392ad1d80407",
+      "slug": "shvlchn-kdvrgl-mktsvay-334883",
+      "name": "שולחן כדורגל מקצועי",
+      "name_translations": {},
+      "description": "<p>⚽ השכרת שולחן כדורגל – אטרקציה ספורטיבית וכיפית לבר מצווה, ימי הולדת ומסיבות. שולחן מקצועי ומרשים שמעניק חוויה תחרותית ומהנה לכל גיל ומשדרג כל חגיגה עם אנרגיה ושמחה!</p>",
+      "short_description": null,
+      "sku": "6666",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065711538-4jcn6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shvlchn-kdvrgl-mktsvay-334883",
+      "categories": [
+        "שולחנות משחק"
+      ],
+      "updated_at": "2026-03-09T15:55:17.183Z"
+    },
+    {
+      "id": "351ed792-5c42-4c5b-8e1d-44973334f5c5",
+      "slug": "4-amdvt-klya-lmtrh-g2nof6",
+      "name": "4 עמדות קליע למטרה",
+      "name_translations": {},
+      "description": "<p>שדרגו את חוויית המטווח עם 4 עמדות קליע מקצועיות! המתחם שלנו מציע עמדות ירי חדישות, בטיחותיות ומאובזרות, המתאימות לאימון אישי או לקבוצות. דיוק מקסימלי, נוחות מלאה וליווי מקצועי בכל ירייה. בואו לשפר ביצועים – שריינו עמדה עכשיו!</p>",
+      "short_description": null,
+      "sku": "1234223",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065710613-1k0htj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/4-amdvt-klya-lmtrh-g2nof6",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:28:23.560Z"
+    },
+    {
+      "id": "286f36e4-729f-4f89-908b-09fdaa16d8f3",
+      "slug": "grznym-lmtrh-r99p6k",
+      "name": "גרזנים למטרה",
+      "name_translations": {},
+      "description": "<p>מתקן זריקת גרזנים מתנפח – חוויה בטוחה, מהנה ומאתגרת לכל הגילאים! מתאים לימי הולדת, אירועים ופעילויות גיבוש. בואו לבדוק את הדיוק שלכם ולהתחרות עם חברים!</p>",
+      "short_description": null,
+      "sku": "2135867",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065710176-rxgxqi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/grznym-lmtrh-r99p6k",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:28:00.367Z"
+    },
+    {
+      "id": "2e3b0f99-e02b-4ddc-b3fb-7bb91c012477",
+      "slug": "symvltvr-pyratym-9nbxay",
+      "name": "סימולטור פיראטים",
+      "name_translations": {},
+      "description": "<p>סימולטור פיראטים – אתגר המהירות והכיף! 🏴‍☠️ היכונו לקרב פיראטים סוער! משחק פטישים קצבי שבוחן את רפלקס המהירות שלכם. אטרקציה צבעונית ומלאת אדרנלין שסוחפת את הילדים ויוצרת אווירה של מסיבה אמיתית. לולי לבד – כל מכה היא חוויה!</p>",
+      "short_description": null,
+      "sku": "1299966457",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065708676-0e7qpd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/symvltvr-pyratym-9nbxay",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:27:36.194Z"
+    },
+    {
+      "id": "5a26f512-ca95-44ba-8646-838addb57a9f",
+      "slug": "symvltvr-avpnva-qmidhb",
+      "name": "סימולטור אופנוע",
+      "name_translations": {},
+      "description": "<p>סימולטור אופנוע - לולילנד - LooliLand</p>",
+      "short_description": null,
+      "sku": "125457",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773065708131-x532m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/symvltvr-avpnva-qmidhb",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T14:27:25.049Z"
+    },
+    {
+      "id": "3b6cfe9c-f246-49db-b1df-b3377564c926",
+      "slug": "kvsvt-lpvkpvrn-shkyvt-lpvkpvrn-m7p1jc",
+      "name": "כוסות לפוקפורן \\שקיות לפוקפורן",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "2186798",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773062770873-c0zyut.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/kvsvt-lpvkpvrn-shkyvt-lpvkpvrn-m7p1jc",
+      "categories": [
+        "ציוד משלים"
+      ],
+      "updated_at": "2026-03-09T13:26:25.970Z"
+    },
+    {
+      "id": "2e18390f-7c5d-46d9-99f9-867665e0d052",
+      "slug": "mkvnh-glydh-amrkayt-5zh2m1",
+      "name": "מכונה גלידה אמרקאית",
+      "name_translations": {},
+      "description": "<p><strong>מכונת גלידה אמריקאית מקצועית להשכרה</strong></p><p><br></p><p>הפכו את האירוע שלכם לחוויה מתוקה ובלתי נשכחת עם מכונת הגלידה האמריקאית המקצועית שלנו! המכונה מאפשרת הכנה קלה ומהירה של גלידה רכה ואוורירית בטעמים מגוונים, ומתאימה באופן מושלם לימי הולדת, אירועי חברה, ימי כיף משפחתיים ועוד.</p><p><br></p><p><strong>למה לבחור במכונת הגלידה האמריקאית שלנו?</strong></p><ul><li>ציוד מקצועי ומאושר בטיחותית לשימוש בטוח ונוח</li><li>קלה לתפעול ומתאימה לכל סוג אירוע</li><li>יוצרת גלידה רכה ואיכותית שמשמחת ילדים ומבוגרים כאחד</li><li>שירות אישי ומסור עם הדרכה מלאה</li><li>אפשרות לבחירת טעמים מגוונים לפי העדפתכם</li></ul><p><em>כי כל אירוע מגיע לו קצת מתיקות וחיוכים!</em> 🍦✨</p>",
+      "short_description": null,
+      "sku": "12345566",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773062686480-s51fn7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mkvnh-glydh-amrkayt-5zh2m1",
+      "categories": [
+        "מכונות מזון"
+      ],
+      "updated_at": "2026-03-09T13:33:21.004Z"
+    },
+    {
+      "id": "e7e3c6ab-d8ed-4e6e-a42e-ae6707b48931",
+      "slug": "shtyph-mkvnyvt-71gohc",
+      "name": "שטיפה מכוניות",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">🚿 מתנפח שטיפת מכוניות – חוויה רטובה ומרעננת! הילדים עוברים בתוך מנהרת מים צבעונית, מתיזים עליהם סילוני מים מכל הכיוונים, עם בובות מתנפחות חיות מעולם אח שמוסיפות לאקשן. המתקן משלב צחוק, ריצה והמון מים</p>",
+      "short_description": null,
+      "sku": "45",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773062623459-l01cv9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/shtyph-mkvnyvt-71gohc",
+      "categories": [
+        "מתנפחים רטובים"
+      ],
+      "updated_at": "2026-03-09T13:26:59.374Z"
+    },
+    {
+      "id": "c502d534-7645-495f-8a3d-9ca8b0f8e9d1",
+      "slug": "kyr-typvs-nyngh-bhrt5p",
+      "name": "קיר טיפוס נינגה",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">קיר טיפוס מתנפח בסגנון נינג׳ה בגודל 5×5 מטר וגובה 6 מטר! עיצוב מרהיב ואתגר אמיתי לילדים שאוהבים לטפס, לכבוש פסגות ולהרגיש כמו לוחמי נינג’ה. מתאים לגילאי 5 ומעלה, מושלם לאירועים מלאי אנרגיה! 🧗‍♂🔥</p>",
+      "short_description": null,
+      "sku": "18",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773062541943-ht3i5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/kyr-typvs-nyngh-bhrt5p",
+      "categories": [
+        "מתנפחים יבשים"
+      ],
+      "updated_at": "2026-03-09T13:26:37.472Z"
+    },
+    {
+      "id": "1786ad83-4480-4477-8ed6-a9022c7d5a71",
+      "slug": "mtnpch-hyshrdvthpl-avty-hu9pq8",
+      "name": "מתנפח הישרדות/הפל אותי",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">מתקן ספורטיבי ענקי מדגם נינג׳ה מתאים לעג 5 משתתפים מלא בעקשן וכייף מתאים למוסדות ואירועים גדולים</p>",
+      "short_description": null,
+      "sku": "98",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773059074652-mci2d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/mtnpch-hyshrdvthpl-avty-hu9pq8",
+      "categories": [
+        "אטרקציות"
+      ],
+      "updated_at": "2026-03-09T13:21:22.439Z"
+    },
+    {
+      "id": "954320e3-b71b-45c6-a838-d48b42018d28",
+      "slug": "amdvt-mvltmdyh-jt9ar2",
+      "name": "עמדות מולטמדיה",
+      "name_translations": {},
+      "description": "<p>עמדות PS5 – הגיימינג הכי חם אצלכם! 🎮 השדרגו את האירוע עם עמדות מולטימדיה מעוצבות, מסכי ענק והמשחקים הכי חדשים: FIFA 25, NBA ועוד. חוויית משחק מטורפת, שלטים רוטטים ואקשן ללא הפסקה. לולי לבד – מנצחים בכל אירוע!</p>",
+      "short_description": null,
+      "sku": "113499",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lulyland.zappy5.app/assets/product-1773058123115-snubo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lulyland.zappy5.app/product/amdvt-mvltmdyh-jt9ar2",
+      "categories": [
+        "שולחנות משחק"
+      ],
+      "updated_at": "2026-03-09T13:27:34.509Z"
+    }
+  ]
+}
